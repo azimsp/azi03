@@ -10,7 +10,7 @@ import os
 
 # ---------------- SETTINGS ----------------
 img_path = "/mnt/data/arezo.msp1 - Copy.png"       # Path to your source image
-output_path = "/tmp/nft_animation_1920frames.mp4"  # Output video file path
+output_path = "/tmp/nft_animation_1920frames.mp4"  # Output video file path  # Output video file path
 
 duration_seconds = 10
 total_frames = 1920
