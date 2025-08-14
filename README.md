@@ -145,4 +145,11 @@ set_linear_interpolation(cam)
 for o in (back, mid, front):
     set_linear_interpolation(o)
 
+     # ---------------- RENDER ANIMATION ----------------
+scene.render.filepath = output_path
+bpy.ops.render.render(animation=True)
+print(f"Rendered to: {output_path}")
+
+
+
    
