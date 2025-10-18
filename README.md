@@ -1,4 +1,4 @@
-# azi03 3hffjyjyf363ljkl
+# azi03 3hffjyjyf363lj
 # Blender Python Script: animate_nft_1920frames.py     jhgjgjh
 # This script creates a parallax-style 3D animation from a flat image for NFT purposes.
 # Run inside Blender's Text Editor -> Run Script.
