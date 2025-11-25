@@ -1,4 +1,4 @@
-# azi03 3hffjylNK>HIR3jihiujklm,;lkjiuhiugytdre>DH>IHGIehn
+# azi03 3hffjylNK>HIR3jihiujklm,;lkjiuhiugytdre>DH>IH
 .KH>GUhhg.u
 knn.shudkh
 kmkllknljn
